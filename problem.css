@@ -2,5 +2,5 @@
     text-decoration: line-through;
     display: inline-block;
     float: left; /* the problem is here */
-    padding-top: 10px;}   
-  
+      padding-top: 10px;
+    }
